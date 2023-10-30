@@ -9,3 +9,6 @@ Mein Test-Repository für Revit-Zwecke.
 - [ ] Changelog
 - [ ] Issuemangement
 - [ ] Aufgabenverwaltung
+- [ ] Dokumentenverwaltung
+- [ ] Video-Hosting
+- [ ] Basis für Sharepoint? Über Git-Actions?
